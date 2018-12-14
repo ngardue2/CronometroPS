@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cronometer</string>
+    <string name="total">Total time:</string>
+    <string name="pausado">Paused time:</string>
+    <string name="ejecutado">Execution time:</string>
+    <string name="iniciar">Start</string>
+    <string name="pausar">Stop</string>
+    <string name="finalizar">Finish</string>
+    <string name="reiniciar">Reset</string>
+    <string name="iniciado">Cronometer started</string>
+    <string name="paused">Cronometer pause</string>
+    <string name="finish">Cronometer finished</string>
+    <string name="reset">Reset</string>
+</resources>

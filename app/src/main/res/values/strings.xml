@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cronometro</string>
+    <string name="total">Tiempo total:</string>
+    <string name="pausado">Tiempo pausado:</string>
+    <string name="ejecutado">Tiempo ejecutado:</string>
+    <string name="iniciar">Inciciar</string>
+    <string name="pausar">Parar</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="iniciado">Cronometro iniciado</string>
+    <string name="paused">Cronometro pausado</string>
+    <string name="finish">Cronometro finalizado</string>
+    <string name="reset">Reiniciar</string>
+</resources>
